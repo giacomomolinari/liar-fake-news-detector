@@ -37,6 +37,7 @@ You can download the dataset from [William Yang Wang's website](https://sites.cs
 To run the notebooks, you can just click the "Open in Colab" in the notebooks themselves. Alternatively you can use the links below:
 - [eda.ipynb](https://colab.research.google.com/github/giacomomolinari/liar-fake-news-detector/blob/main/eda.ipynb)
 - [models.ipynb](https://colab.research.google.com/github/giacomomolinari/liar-fake-news-detector/blob/main/models.ipynb)
+
 Note that a Google Drive mount is required for the dataset. Both notebooks include the code to mount the Google Drive, but you will need to authorize the mount when running them.
 
 ## Limitations
